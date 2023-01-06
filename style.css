@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+  }  
+  .header
+  {
+    font-weight:bold;
+    font-size:30;
+  }
+  
+  #album
+  {
+    border-bottom:3px solid green;
+    height: 400px;
+    padding: 2px;
+  }
